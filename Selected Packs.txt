@@ -2,6 +2,60 @@ Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
 	HungerBarsCake
+	ConnectedLapisBlocks
+	VariatedDirt
+	RandomCoarseDirtRotation
+	VariatedGrass
+	VariatedCobblestone
+	RandomMossRotation
+	VariatedBricks
+	VariatedNylium
+	VariatedLogs
+	VariatedEndStone
+	VariatedGravel
+	VariatedMycelium
+	VariatedPlanks
+	VariatedStone
+	VariatedUnpolishedStones
+	VariatedMushroomBlocks
+	VariatedTerracotta
+	DiminishingTools
+	FullAgeAmethystMarker
+	Age25Kelp
+	HungerPreview
+	MusicDiscRedstonePreview
+	DirectionalHoppers
+	GroovyLevers
+	CompassLodestone
+	NoteblockBanners
+	ArabicNumerals
+	UnobtrusiveParticles
+	AlternateEnchantGlint
+	LowerFire
+	LowerShield
+	TransparentPumpkin
+	ShortSwords
+	UnobtrusiveSnow
+	UnobtrusiveRain
+	BorderlessTintedGlass
+	BorderlessStainedGlass
+	BorderlessGlass
+	TransparentSpyglassOverlay
+	RedstoneWireFix
+	DripleafFixBig
+	ConsistentDecorPot
+	DripleafFixSmall
+	BrighterRibTrim
+	NicerFastLeaves
+	BlazeFix
+	ConsistentSmoothStone
+	DoubleSlabFix
+	UniqueDyes
+	Beeralis
+	XmasChests
+	WitherHearts
+	PingColorIndicator
+	NoJavaEditionTitle
 	DarkOakSaturation
 	HorizontalNuggets
 	BrownLeather
@@ -16,49 +70,23 @@ Packs:
 	AccurateScaffolding
 	MossCarpetOverhang
 	PhantomElytra
-	WitherHearts
-	PingColorIndicator
-	NoJavaEditionTitle
-	Beeralis
-	EmeraldToRuby
-	XmasChests
-	UniqueDyes
-	RedstoneWireFix
-	DripleafFixBig
-	ConsistentDecorPot
-	DripleafFixSmall
-	BrighterRibTrim
-	NicerFastLeaves
-	BlazeFix
-	ConsistentSmoothStone
-	DoubleSlabFix
-	UnobtrusiveParticles
-	AlternateEnchantGlint
-	LowerFire
-	LowerShield
-	TransparentPumpkin
-	ShortSwords
-	DiminishingTools
-	FullAgeAmethystMarker
-	Age25Kelp
-	HungerPreview
-	MusicDiscRedstonePreview
-	DirectionalHoppers
-	GroovyLevers
-	CompassLodestone
-	NoteblockBanners
-	ArabicNumerals
 	NoBowlParticles
 	ItemHoldFix
+	VariatedVillagers
+	EmeraldToRuby
 	FullAgeCropMarker
 	DifferentStems
 	NumberedHotbar
 	DarkUI
 	GoldenCrown
 	ConsistentHelmets
+	VariatedBookshelves
+	ConnectedBookshelves
 
 Combined packs:
+	ConnectedBookshelves+VariatedBookshelves
 	ConsistentHelmets+GoldenCrown
 	DarkUI+NumberedHotbar
 	DifferentStems+FullAgeCropMarker
+	EmeraldToRuby+VariatedVillagers
 	ItemHoldFix+NoBowlParticles
