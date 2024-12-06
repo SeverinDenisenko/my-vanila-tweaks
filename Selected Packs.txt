@@ -2,74 +2,76 @@ Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
 	HungerBarsCake
+	ColoredHeartsLightBlue
 	ConnectedLapisBlocks
-	VariatedDirt
-	RandomCoarseDirtRotation
-	VariatedGrass
-	VariatedCobblestone
-	RandomMossRotation
-	VariatedBricks
-	VariatedNylium
-	VariatedLogs
-	VariatedEndStone
-	VariatedGravel
-	VariatedMycelium
-	VariatedPlanks
-	VariatedStone
-	VariatedUnpolishedStones
-	VariatedMushroomBlocks
 	VariatedTerracotta
-	DiminishingTools
-	FullAgeAmethystMarker
-	Age25Kelp
-	HungerPreview
-	MusicDiscRedstonePreview
-	DirectionalHoppers
-	GroovyLevers
-	CompassLodestone
-	NoteblockBanners
+	VariatedMushroomBlocks
+	VariatedUnpolishedStones
+	VariatedStone
+	VariatedPlanks
+	VariatedMycelium
+	VariatedGravel
+	VariatedEndStone
+	VariatedLogs
+	VariatedNylium
+	VariatedBricks
+	RandomMossRotation
+	VariatedCobblestone
+	VariatedGrass
+	RandomCoarseDirtRotation
+	VariatedDirt
 	ArabicNumerals
-	UnobtrusiveParticles
-	AlternateEnchantGlint
-	LowerFire
-	LowerShield
-	TransparentPumpkin
-	ShortSwords
-	UnobtrusiveSnow
-	UnobtrusiveRain
-	BorderlessTintedGlass
-	BorderlessStainedGlass
-	BorderlessGlass
+	NoteblockBanners
+	CompassLodestone
+	GroovyLevers
+	DirectionalHoppers
+	MusicDiscRedstonePreview
+	HungerPreview
+	Age25Kelp
+	FullAgeAmethystMarker
+	DiminishingTools
 	TransparentSpyglassOverlay
-	RedstoneWireFix
-	DripleafFixBig
-	ConsistentDecorPot
-	DripleafFixSmall
-	BrighterRibTrim
-	NicerFastLeaves
-	BlazeFix
-	ConsistentSmoothStone
+	UnobtrusiveRain
+	UnobtrusiveSnow
+	ShortSwords
+	TransparentPumpkin
+	LowerFire
+	AlternateEnchantGlint
+	UnobtrusiveParticles
+	CleanGlass
+	CleanTintedGlass
+	CleanStainedGlass
+	LowerShield
+	SmallerUtilities
 	DoubleSlabFix
+	ConsistentSmoothStone
+	BlazeFix
+	NicerFastLeaves
+	BrighterRibTrim
+	DripleafFixSmall
+	ConsistentDecorPot
+	DripleafFixBig
+	RedstoneWireFix
 	UniqueDyes
-	Beeralis
 	XmasChests
-	WitherHearts
-	PingColorIndicator
+	Beeralis
 	NoJavaEditionTitle
-	DarkOakSaturation
-	HorizontalNuggets
-	BrownLeather
-	RedIronGolemFlowers
-	BetterParticles
-	WarmGlow
-	AnimatedCampfireItem
-	GlassDoors
-	FlintTippedArrows
-	SplashXpBottle
-	2DSpyglass
-	AccurateScaffolding
-	MossCarpetOverhang
+	PingColorIndicator
+	WitherHearts
 	PhantomElytra
+	MossCarpetOverhang
+	AccurateScaffolding
+	2DSpyglass
+	SplashXpBottle
+	FlintTippedArrows
+	GlassDoors
+	AnimatedCampfireItem
+	WarmGlow
+	BetterParticles
+	RedIronGolemFlowers
+	BrownLeather
+	HorizontalNuggets
+	DarkOakSaturation
 	NoBowlParticles
 	ItemHoldFix
 	VariatedVillagers
